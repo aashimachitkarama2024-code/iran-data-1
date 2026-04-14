@@ -13,7 +13,7 @@ Monthly data on **Total Reserves Excluding Gold** for Iran (Islamic Republic of 
 ## Quick start
 
 ```bash
-pip install requests pandas
+pip install requests
 python fetch_iran_reserves.py
 ```
 
